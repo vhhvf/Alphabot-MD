@@ -41,7 +41,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
+    admin: '🎭لا يمكن استخدام هذا الأمر إلا من قبل المسؤولين🎭 !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',

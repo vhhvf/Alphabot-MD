@@ -706,29 +706,29 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz
+Recode : https://youtube.com/@emperoranus7621-
 `
 }
 exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
+هاي عمري☺️ 
+مرحبا بك في بوتات انوس. هذا الأمر مخصص في صناعه بوتات امسح Qr وثم انتقل الي البوت واكتب "الاوامر" 
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+اذا اشتغل البوت اشتراك في قناتي 🎭 
+https://youtube.com/@emperoranus7621👍
 
-Berapapun donasi kalian akan sangat berarti 👍
+المطور!
 
-Thanks!
-
-Contact person Owner:
+الامبراطور انوس:
 wa.me/${ownernomer}
 
     `
 }
 
 exports.info = (prefix) =>{
-	return`╭─❒ 「 Bot Info 」 
+	return`╭─❒ 「 اوامر اضافيه🌀 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
 ├ ${prefix}sc
@@ -739,7 +739,7 @@ exports.info = (prefix) =>{
 `}
 
 exports.ownermenu = (prefix) =>{
-return`╭─❒ 「 Owner 」 
+return`╭─❒ 「 المطور👤 」 
 ├ < evaluate
 ├ > evaluate
 ├ $ exec
